@@ -1,12 +1,11 @@
 <p>
 <h3> Analista de infraestrutura Jr | Analista de Segurança da Informação Jr </h3>
 </p>
-<img align='left' src="https://img.shields.io/static/v1?label=Overview&message=Raphael%20Matheus%20Pereira&color=f8efd4&style=for-the-badge&logo=GitHub">
-<br><br>
+
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ph7ti&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-<br><br>
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark">
-<br>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark">
+<br><br><br>
 <br><br><br><br><br><br><br><br>
 <p>
 
