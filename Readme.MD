@@ -2,9 +2,7 @@
 <h3> Analista de infraestrutura Jr | Analista de Segurança da Informação Jr </h3>
 </p>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ph7ti&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ph7ti&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"><img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark">
 <br><br><br>
 <br><br><br><br><br><br><br><br>
 <p>
