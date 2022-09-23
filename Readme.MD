@@ -1,12 +1,13 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ph7ti&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
+<p>
 <h3> Analista de infraestrutura Jr | Analista de Segurança da Informação Jr </h3>
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Raphael%20Matheus%20Pereira&color=f8efd4&style=for-the-badge&logo=GitHub">
-
+</p>
+<img align='left' src="https://img.shields.io/static/v1?label=Overview&message=Raphael%20Matheus%20Pereira&color=f8efd4&style=for-the-badge&logo=GitHub">
+<br>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ph7ti&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<div>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark">
+</div>
+<br><br><br><br><br><br><br><br>
 <p>
 
 - Gerenciamento, manutenção e implantação de infraestrutura multicloud (Azure e AWS).
@@ -23,11 +24,12 @@
 - Conhecimento em hardware de servidores e instalação e configuração dos mesmos.
 - Desenvolvimento e Administração aplicações Web.
 - Conhecimento em linguagem de programação.
-- Gerenciamento e manutenção de parque tecnológico e documentação.<br/>
-
+- Gerenciamento e manutenção de parque tecnológico e documentação.
 </p>
 <hr>
+
 ## HARD SKILLS ##
+
 ### CODER ###
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
