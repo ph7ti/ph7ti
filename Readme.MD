@@ -1,10 +1,11 @@
 <p>
 <h3> Analista de infraestrutura Jr | Analista de Segurança da Informação Jr </h3>
 </p>
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ph7ti&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"><img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark">
+<div>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ph7ti&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&card_width=100px"><img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark&card_width=100px"></div><div>
 <br><br><br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<hr>
 <p>
 
 - Gerenciamento, manutenção e implantação de infraestrutura multicloud (Azure e AWS).
@@ -24,7 +25,7 @@
 - Gerenciamento e manutenção de parque tecnológico e documentação.
 </p>
 <hr>
-
+</div>
 ## HARD SKILLS ##
 
 ### CODER ###
