@@ -30,7 +30,7 @@
 
 ### CODER ###
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"><img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
 
 ### DB ###
 
@@ -43,7 +43,6 @@
 ### Hypervisors ###
 
 <img src="https://img.shields.io/badge/VMware_ESXI-607078?style=for-the-badge&logo=vmware&logoColor=white">
-?logo=data:image/png;base64,…
 
 ### OS ###
 
