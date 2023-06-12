@@ -46,7 +46,7 @@
 
 ### OS ###
 
-<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Slackware-607078?style=for-the-badge&logo=slackware&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
 
 ### Services ###
 
