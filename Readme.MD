@@ -1,5 +1,5 @@
 <p>
-<h3> Analista de infraestrutura Jr | Analista de Segurança da Informação Jr </h3>
+<h3> Analista de infraestrutura | Analista de Segurança da Informação </h3>
 </p>
 <div>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ph7ti&show_icons=true&cache_seconds=2300&card_width=100px&theme=dark"><img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph7ti&hide=html&layout=compact&theme=dark&card_width=100px"></div><div>
@@ -9,7 +9,7 @@
 <p>
 
 - Gerenciamento, manutenção e implantação de infraestrutura multicloud (Azure e AWS).
-- Administração de Active Directory (Windows Server 2016 e 2012).
+- Administração de Active Directory (Windows Server).
 - Administração de Linux Servers.
 - Automatização de processos em servidores (Python, Powershell e ShellScript).
 - Monitoramento (Zabbix).
